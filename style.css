@@ -1383,7 +1383,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ed5b5b;
+  color: var(--blue);
   font-size: 18px;
   line-height: 1;
 }
