@@ -27,7 +27,7 @@ Go to the project directory
 
 View in your browser
 
-  Double click on index.html
+- Double click on index.html
 
 
 ## Authors
