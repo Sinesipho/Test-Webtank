@@ -35,7 +35,7 @@ View in your browser
 - [@Dikeledi Molekoa](https://www.github.com/Dikeledi-Molekoa)
 - [@Kaizer Mthimkhulu](https://www.github.com/Kaizer-Mthimkhulu)
 - [@Lindokuhle Khoza](https://www.github.com/lindokhoza034)
-- [@Thabiso Makola](https://www.github.com/)
+- [@Thabiso Makola](https://www.github.com/MakolaT)
 - [@Sinesipho Jacobs](https://www.github.com/Sinesipho-Jacobs)
 
 
